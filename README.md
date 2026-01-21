@@ -82,6 +82,16 @@ PIDS/
 python intrusion_detection.py
 ```
 
+## How to Run
+
+```bash
+opencv-python
+numpy
+pandas
+openpyxl
+```
+
+
 A popup menu will appear:
 
 1. Laptop Camera
