@@ -71,7 +71,7 @@ PIDS/
 │   └── intrusion_log.xlsx
 │── README.md
 │── requirements.txt
-│── SOP.md
+
 ```
 
 ---
